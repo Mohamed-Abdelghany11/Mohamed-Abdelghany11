@@ -31,6 +31,7 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 
 ### 📫 Connect with Me
 
+
 <p align="left">
 
 <!-- LinkedIn -->
@@ -43,10 +44,11 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 <img src="https://img.shields.io/badge/Mohamed%20Abdelghany-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/mohamed_abdelghany_ahmed" target="_blank">
-<img src="https://img.shields.io/badge/Mohamed%20Abdelghany-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<!-- Email -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamed.ahmed.elfalahgy@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Mohamed%20Abdelghany-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
+
 
