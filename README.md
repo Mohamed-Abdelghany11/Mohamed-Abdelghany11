@@ -1,8 +1,8 @@
-# 👋 Welcome to Mohamed's profile!
+# 👋 Hi, I'm Mohamed Abdelghany
 
 
 ### 🚀 Aspiring Front-End Developer | React Student
-I am currently a student at **Almdrasa**, specializing in modern web development. I am building my career through an intensive learning path:
+Front-End & Programming Student passionate about building modern web applications.
 
 - 🎓 **Front-End Diploma Trainee** 
 - ⚛️ **React Developer Trainee** 
@@ -16,6 +16,8 @@ I am currently a student at **Almdrasa**, specializing in modern web development
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -29,24 +31,28 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 - 🛠️ Practicing Git & GitHub for version control and project management  
 ---
 
-### 📫 Connect with Me
+📌 Goals
+- Build real-world projects
+- Improve React skills
+- Learn backend development
 
+<h2>📬 Connect with Me</h2>
 
-<p align="left">
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mohamed-elfalahgy" target="_blank">
-<img src="https://img.shields.io/badge/Mohamed%20Abdelghany-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/Mohamed-Abdelghany11" target="_blank">
-<img src="https://img.shields.io/badge/Mohamed%20Abdelghany-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <!-- Email -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamed.ahmed.elfalahgy@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Mohamed%20Abdelghany-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamed.abdelghany.ahmed@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
