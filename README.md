@@ -4,8 +4,8 @@
 ### 🚀 Aspiring Front-End Developer | React Student
 I am currently a student at **Almdrasa**, specializing in modern web development. I am building my career through an intensive learning path:
 
-- 🎓 **Front-End Diploma Trainee** @ Almdrasa
-- ⚛️ **React Developer Trainee** @ Almdrasa
+- 🎓 **Front-End Diploma Trainee** 
+- ⚛️ **React Developer Trainee** 
 
 ---
 
